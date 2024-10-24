@@ -1,0 +1,17 @@
+1-topshiriq
+Siz NestJS yordamida mahsulotlar va so‘zlar bilan bog‘liq biznes logikasini amalga oshiruvchi API yozishingiz kerak. Ma'lumotlar bazasi sifatida PostgreSQL dan foydalaning. Mahsulot qo‘shish, yangilash va o‘chirish kabi amallarni bajaradigan CRUD operatsiyalarni yozing.
+Shartlar:
+1. Mahsulotlar bilan bog'liq API'lar:
+Mahsulotni qo‘shish: Mahsulotni (nom, narx, miqdor) saqlash uchun API yarating.
+Mahsulotni yangilash: Mahsulot nomini, narxini va miqdorini yangilash imkoniyatini yarating.
+Mahsulotni o‘chirish: Ma’lumotlar bazasidan mahsulotni o‘chirish imkoniyatini yarating.
+Barcha mahsulotlarni ko‘rish: Barcha mavjud mahsulotlarni ro‘yxatda ko‘rsating.
+Mahsulotni topish: Mahsulotni id yoki nom orqali qidirib topish imkoniyatini bering.
+Narx bo‘yicha filtrlash: Mahsulotlarni narx diapazoni bo‘yicha filtrlash imkoniyatini yarating.
+Ombordagi mahsulotlar miqdorini ko‘rish: Omborda qancha mahsulot borligini sanash imkonini bering.
+2. Qo'shimcha biznes logiklar:
+Mahsulotlar uchun chegirma tizimi: Mahsulotlarga chegirma qo‘llash imkoniyatini qo‘shing. Masalan, mahsulotga ma'lum miqdorda chegirma (foizda yoki belgilangan miqdorda) berish.
+Bonus:
+Docker orqali butun loyihani avtomatik ishga tushirish imkoniyatini yarating va barcha bog‘liq konteynerlar (NestJS, PostgreSQL) birgalikda ishga tushirilishini ta'minlang.
+2-topshiriq
+Har bir odam O’zinig Cvsini yuklaydi tizimga . Kecha dars o’tilgan darr bo’yich atalablarga javob bera oladigan bo’ls 
